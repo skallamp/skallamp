@@ -1,7 +1,8 @@
 # Hi, I'm Sathyan! 👋
 
-🌱 I'm interested in GenAI, Machine Learning, and AI ML models.
-🚀 Currently learning and experimenting with NLP and machine learning.
+Data & AI practitioner passionate about Agentic AI and automation. 
+I build workflows, experiment with LLM and share learnings as I go. Always curious & building
+
 
 ### 📫 Connect with me:
 - LinkedIn: https://www.linkedin.com/in/sathyan-kallamparambil-89553334/
